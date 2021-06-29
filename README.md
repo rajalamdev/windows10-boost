@@ -1,4 +1,7 @@
 # windows10-boost
-the second step of Debloat Windows 10
+**The second step of Debloat Windows 10**
 
-Just extract the zip file, and open Windows10-Boost with Run as Administrator
+Step:
+# Download the Windows10Boost.bat file
+# Extract the zip file
+# Open the Windows10Boost.bat file with Run as Administrator
